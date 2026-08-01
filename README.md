@@ -141,13 +141,7 @@ nopCommerce-Manual-Testing-Project
 
 Computer Science Graduate | Aspiring Software Test Engineer
 
-Currently Upskilling
-- Java
-- Selenium WebDriver
-- TestNG
-- Automation Testing
 
----
 
 ## Note
 
