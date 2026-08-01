@@ -79,23 +79,31 @@ This repository contains a Manual Testing project for the nopCommerce e-commerce
 
 ## Project Structure
 
-```
+```text
 nopCommerce-Manual-Testing-Project
 │
-├── Test Cases
+├── Testcases
 │   ├── Login.xlsx
+│   ├── Login.pdf
 │   ├── Registration.xlsx
+│   ├── Registration.pdf
 │   ├── Search.xlsx
-│   ├── Product Listing.xlsx
-│   ├── Add to Cart.xlsx
-│   └── Checkout.xlsx
+│   ├── Search.pdf
+│   ├── Product_Listing.xlsx
+│   ├── Product_Listing.pdf
+│   ├── Add_To_Cart.xlsx
+│   ├── Add_To_Cart.pdf
+│   ├── Checkout.xlsx
+│   └── Checkout.pdf
 │
-├── Bug Reports
-│   ├── Bug Report.xlsx
-│   └── Defect Distribution.xlsx
+├── Bug_Reports
+│   ├── Bug_Report.xlsx
+│   ├── Bug_Report.pdf
+│   └── Defect_Distribution.xlsx
 │
-├── Test Report
-│   └── Test Report.xlsx
+├── Test_Report
+│   ├── Test_Report.xlsx
+│   └── Test_Summary.pdf
 │
 ├── Screenshots
 │   ├── BUG_001.png
